@@ -4,18 +4,20 @@
     "url": "https://azura.takiyo.bar",
     "icon": "https://icons.duckduckgo.com/ip3/azura.takiyo.bar.ico",
     "slug": "azura-radio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 12658,
-    "timeDay": 12658,
-    "timeWeek": 12658,
-    "timeMonth": 12658,
-    "timeYear": 12658,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 8659,
+    "timeDay": 8659,
+    "timeWeek": 8659,
+    "timeMonth": 8659,
+    "timeYear": 8659,
+    "dailyMinutesDown": {
+      "2022-11-27": 0
+    }
   },
   {
     "name": "Takiyo Homepage",
