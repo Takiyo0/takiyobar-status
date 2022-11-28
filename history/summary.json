@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/azura.takiyo.bar.ico",
     "slug": "azura-radio",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 8659,
-    "timeDay": 8659,
-    "timeWeek": 8659,
-    "timeMonth": 8659,
-    "timeYear": 8659,
+    "uptime": "38.80%",
+    "uptimeDay": "10.45%",
+    "uptimeWeek": "38.80%",
+    "uptimeMonth": "38.80%",
+    "uptimeYear": "38.80%",
+    "time": 6609,
+    "timeDay": 561,
+    "timeWeek": 6609,
+    "timeMonth": 6609,
+    "timeYear": 6609,
     "dailyMinutesDown": {
-      "2022-11-27": 0
+      "2022-11-28": 60,
+      "2022-11-27": 1229
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "time": 220,
+    "timeDay": 459,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   }
 ]
